@@ -3,7 +3,7 @@ branches:
 - master
 projects:
   EconomyAPI:
-    path: EconomyAPI/
+    path: EconomyAPI/ 
     logo: EconomyAPI/icon.png
   EconomyAirport:
     path: EconomyAirport/
